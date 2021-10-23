@@ -28,6 +28,10 @@ This project is cross platform application built on <code>Flutter</code> and can
 
 https://www.figma.com/file/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=0%3A1
 
+# Figma Prototype
+
+https://www.figma.com/proto/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=12%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=12%3A3
+
 # Prototype Application
 
 https://github.com/roodymike/Divyaang/releases/download/Build/app.apk
