@@ -24,5 +24,10 @@ This project is cross platform application built on Flutter and can be compiled 
 
 ![alt text](https://github.com/roodymike/Divyaang/blob/master/Failed.png?raw=true)
 
+# Figma Mockup
 
-https://www.figma.com/file/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=0%3A1
+![alt text](https://www.figma.com/file/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=0%3A1)
+
+# Prototype Application
+
+https://github.com/roodymike/Divyaang/releases/download/Build/app.apk
