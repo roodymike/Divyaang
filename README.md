@@ -4,7 +4,7 @@ This app trys to empower physically challenged community their right to freedom 
 
 ## Getting Started
 
-This project is cross platform application built on Flutter and can be compiled for Android, Web, iOS, Windows, Linux and Mac OS. The aplication build can be found in Release page for the project.
+This project is cross platform application built on <code>Flutter</code> and can be compiled for Android, Web, iOS, Windows, Linux and Mac OS. The aplication build can be found in Release page for the project.
 
 # Screenshots
 
@@ -26,7 +26,7 @@ This project is cross platform application built on Flutter and can be compiled 
 
 # Figma Mockup
 
-![alt text](https://www.figma.com/file/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=0%3A1)
+https://www.figma.com/file/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=0%3A1
 
 # Prototype Application
 
