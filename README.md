@@ -1,4 +1,4 @@
-# Divyaang App
+# Divyang App
 
 This app trys to empower physically challenged community their right to freedom of choice and financial independency. 
 
