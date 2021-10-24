@@ -55,3 +55,17 @@ https://www.figma.com/proto/NbHPR7U7hTeMBuICO5zfS3/DIVYAANG?node-id=12%3A3&scali
 
 https://github.com/roodymike/Divyaang/releases/download/Build/app.apk
 
+
+# Application Insights
+
+### App Experience
+![Alt](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/36e8f4b9-1aa9-4030-a180-a454f3f8bf3c.gif?ClientID=vimeo-core-prod&Date=1635112334&Signature=ce7575b3a6e8de903285344da141ca56f6a01f16)
+
+### Ease of Access
+![Alt](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7b192ea1-867a-4ad6-869d-cb40f7a43a52.gif?ClientID=vimeo-core-prod&Date=1635102835&Signature=6f590bedc7d30fd679b9fd408cc811973a62c310)
+
+### Secure Payments
+![Alt](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/d5bcde06-c8a1-425c-9e45-5129353b7872.gif?ClientID=vimeo-core-prod&Date=1635102939&Signature=5cebbfcc7394b4d4e6473fd4f2168db0e6b9224a)
+
+
+
