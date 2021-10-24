@@ -41,7 +41,7 @@ This project is cross platform application built on <code>Flutter</code> and can
 # Screenshot
 ## Welcome Screen
 
-![Alt](https://raw.githubusercontent.com/roodymike/Divyaang/master/Home2.png)
+![Alt](https://raw.githubusercontent.com/roodymike/Divyaang/master/Home.png)
 
 # Figma Mockup
 
